@@ -6,10 +6,16 @@ I am a high schooler who loves coding!
 
 Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-stack
 
+🌱 Currently learning/want to learn:
+- Rust
+- Kotlin
+- Nim
+
 😄 Hobbies and Interests:
 - Ham Radio
 - [Homelab](https://reddit.com/r/homelab/)
 - Online privacy and freedom
+- Electrical and Computer Engineering
 
 📫 Contact:
 - @openssl_rand:projectsegfau.lt (Matrix)
