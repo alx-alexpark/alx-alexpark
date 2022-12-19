@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I am a high schooler who loves coding!
+
+🔗 My website: https://parkalex.dev ipns://parkalex.dev
+
+Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-stack
+
+😄 Hobbies and Interests:
+- Ham Radio
+- [Homelab](https://reddit.com/r/homelab/)
+- Online privacy and freedom
+
+📫 Contact:
+- @openssl_rand:projectsegfau.lt (Matrix)
+- me@parkalex.dev
 <!--
 **alx-alexpark/alx-alexpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=alx-alexpark&color=brightgreen)
