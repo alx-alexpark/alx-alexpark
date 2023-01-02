@@ -10,6 +10,7 @@ Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-s
 - Rust
 - Kotlin
 - Nim
+- Svelte
 
 😄 Hobbies and Interests:
 - Ham Radio
