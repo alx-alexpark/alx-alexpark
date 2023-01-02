@@ -20,6 +20,7 @@ Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-s
 📫 Contact:
 - @openssl_rand:projectsegfau.lt (Matrix)
 - me@parkalex.dev
+- PGP: 24A3B83FB26AA900 (On the major keyservers)
 <!--
 **alx-alexpark/alx-alexpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
