@@ -2,7 +2,7 @@
 
 I am a high schooler who loves coding!
 
-🔗 My website: https://parkalex.dev ipns://parkalex.dev
+🔗 My website: https://parkalex.dev
 
 Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-stack
 
