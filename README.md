@@ -19,7 +19,7 @@ Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-s
 - Electrical and Computer Engineering
 
 📫 Contact:
-- @openssl_rand:projectsegfau.lt (Matrix)
+- @devrand:envs.net (Matrix)
 - me@parkalex.dev
 - PGP: 24A3B83FB26AA900 (On the major keyservers)
 <!--
