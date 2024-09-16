@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a high schooler who loves coding!
+I am a high schooler who dabbles in both hardware and software.
 
 🔗 My website: https://parkalex.dev
 
-Technologies I use and am familiar with: https://stackshare.io/alx-alexpark/my-stack
+Familiar with React/NextJS, Flutter, and a bit of PCB design with various thingies.
 
 🌱 Currently learning/want to learn:
 - Rust
